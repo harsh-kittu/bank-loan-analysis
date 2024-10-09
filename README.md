@@ -448,7 +448,5 @@ The **Bank Loan Analysis** project leverages SQL queries and Power BI to provide
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
